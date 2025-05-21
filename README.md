@@ -1,83 +1,14 @@
-# rosgame
-Simulated game world with open-source Godot engine, StardewVally style and ROS2 nodes
+# rosgame (todo)
+Simulated game world with open-source Godot engine (or Unity), StardewVally style and ROS2 nodes
 
 - todo1.
   - Organizing the Tutorial for easy, intuitive, five-minute understanding of the key concepts of ROS2 with simple character interaction graphics
     - Simple godot graphics + CLI environment or web-type interpreter description
 
 - todo2.
+  - Runable in a playable (controllable) game form with the stardew valley style
+  - Reference : https://github.com/joonspk-research/generative_agents
 
+- framework
+  - Python, C#, ROS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 창조하는 자는 동반자, 같이 수확을 거둬들일 자를 구한다. 창조하는 자 앞에서는 만물은 익어서 수확되기를 기다리고 있기 때문이다. 그러나 그에게는 백 개의 낫이 없다. 따라서 그는 이삭을 쥐어뜯으며 화를 낸다. -->
